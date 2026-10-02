@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4efe3"/>
+  <rect x="80" y="80" width="1040" height="470" rx="28" fill="#fffdf9" stroke="#d3b7c0"/>
+  <circle cx="300" cy="240" r="110" fill="#e7a3b8" opacity="0.4"/>
+  <text x="600" y="250" text-anchor="middle" font-size="52" font-family="Georgia, serif" fill="#171510">The سلفية mindset</text>
+  <text x="600" y="320" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#5a5147">Your daily dose of salafiyyah</text>
+  <text x="600" y="390" text-anchor="middle" font-size="22" font-family="Arial, sans-serif" fill="#8c6f41">Markaz al-Imaam ash-Shaafi'iy al-Islaamiy</text>
+</svg>
